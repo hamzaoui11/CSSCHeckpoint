@@ -1,0 +1,51 @@
+*
+{
+	padding: 0px ; 
+
+	margin: 0px;
+}
+#taswira-title{ width: 100%;
+    height: 400px;
+    background-image:  url(https://images.unsplash.com/photo-1532972190883-11c46c01030b?ixlib=rb-0.3.5…gb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e301c9d…) ;
+	opacity:0.8;
+    background-size: cover;
+    padding: 30px;
+    color: white;
+    margin-left: 0px;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, .5);
+}
+
+#top-widlle{
+	font-size: 3.5em;
+	margin-top: 230px;
+}
+
+ #articles{
+	color: rgb(34, 50, 95);
+    font-size: 5em;
+    font-family: 'Bree Serif', serif;
+    margin: 30px 0 40px 30px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+}
+
+#all{
+	width: 80%;
+	margin: auto;
+}
+
+.p{
+	display: inline-block;
+	width: 44%;
+	background-color: #CDC7C7;
+	padding: 20px;
+	margin-bottom: 5px;
+}
+.noir{
+	background-color: #3e3c3c;
+	color: white;
+}
+.p:hover {
+	border : solid black ;
+	transition : border 500ms ease-out;
+	padding: 17px;
+}
